@@ -1,0 +1,30 @@
+.headline {
+  text-align: center;
+}
+
+.paragraf {
+  color: tomato;
+  font-size: 50px;
+  text-align: center;
+}
+
+.counterBlock {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.encreaseButton {
+  background-color: aquamarine;
+  width: 100px;
+}
+
+.encreaseButton:hover {
+  background-color: rgb(215, 254, 255);
+}
+.decreaseButton {
+  background-color: rgb(255, 127, 133);
+  width: 100px;
+}
+.decreaseButton:hover {
+  background-color: rgb(255, 195, 223);
+}
